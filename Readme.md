@@ -16,4 +16,4 @@ This is a simple **ATM simulation** program written in C. It allows users to per
 ## 🛠️ How to Run
 ```bash
 gcc atm.c -o atm
-./atm
+./ATM 
