@@ -1,10 +1,41 @@
+# 📊 Student Grade Management System (C Language)
+
+This is a **console-based Student Grade Management System** written in **C language**. It allows users (teachers or admins) to enter student details, calculate total and average marks, assign grades, and display student records.
+
 ---
 
-### ✅ What's Next?
+## ✨ Features
 
-If you give me your GitHub repo link, I can:
-- Personalize the README with your real GitHub link
-- Add screenshot placeholders or badge suggestions
-- Help you improve the C code for version 2
+- Add multiple student records
+- Calculate total and average marks
+- Assign grades based on performance
+- Display student report
+- Simple and clean code using arrays and structures (if used)
 
-Let me know if you’d like a **PDF** version of this README with project code and explanation included!
+---
+
+## 🛠️ Tech Used
+
+- **Language:** C
+- **Compiler:** GCC (can be compiled with Code::Blocks, Turbo C, or VS Code)
+
+---
+
+## 📷 Sample Output
+
+```bash
+Enter number of students: 2
+
+Enter details for Student 1:
+Name: Riya
+Roll No: 101
+Marks in 3 subjects: 85 92 78
+
+Enter details for Student 2:
+Name: Aryan
+Roll No: 102
+Marks in 3 subjects: 56 61 49
+
+--- Student Report ---
+Name: Riya | Roll: 101 | Total: 255 | Avg: 85.0 | Grade: A
+Name: Aryan | Roll: 102 | Total: 166 | Avg: 55.3 | Grade: C
