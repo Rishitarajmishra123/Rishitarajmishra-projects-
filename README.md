@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate and curious learner, currently pr
 - 🤖 **AI-Powered Face Feature Recognition Web App** *(In Progress)*  
 - 👩‍🎓 **Students grade manegement 
 system** in C
-- 🔢 **number guessing 
+- 🔢 **number guessing**
 -    **calculator**
 - ⏰ **digital clock**
 - 🧪 Exploring fun ML projects with Python soon!
