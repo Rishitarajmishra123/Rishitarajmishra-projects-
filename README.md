@@ -22,6 +22,8 @@ Welcome to my GitHub profile! I'm a passionate and curious learner, currently pr
 - 👩‍🎓 **Students grade manegement 
 system** in C
 - 🔢 **number guessing 
+-    **calculator**
+- ⏰ **digital clock**
 - 🧪 Exploring fun ML projects with Python soon!
 
 ---
