@@ -27,12 +27,12 @@ This is a **console-based Student Grade Management System** written in **C langu
 Enter number of students: 2
 
 Enter details for Student 1:
-Name: Riya
+Name: Rishita 
 Roll No: 101
 Marks in 3 subjects: 85 92 78
 
 Enter details for Student 2:
-Name: Aryan
+Name: Vaibhav 
 Roll No: 102
 Marks in 3 subjects: 56 61 49
 
