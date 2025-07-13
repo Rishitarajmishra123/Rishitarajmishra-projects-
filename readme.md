@@ -17,7 +17,7 @@ This is a **console-based Student Grade Management System** written in **C langu
 ## 🛠️ Tech Used
 
 - **Language:** C
-- **Compiler:** GCC (can be compiled with Code::Blocks, Turbo C, or VS Code)
+- **Compiler:** GCC (can be compiled with Code:Block , Turbo C , vs code)
 
 ---
 
