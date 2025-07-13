@@ -37,5 +37,5 @@ Roll No: 102
 Marks in 3 subjects: 56 61 49
 
 --- Student Report ---
-Name: Riya | Roll: 101 | Total: 255 | Avg: 85.0 | Grade: A
-Name: Aryan | Roll: 102 | Total: 166 | Avg: 55.3 | Grade: C
+Name: Rishita | Roll: 101 | Total: 255 | Avg: 85.0 | Grade: A
+Name: Vaibhav | Roll: 102 | Total: 166 | Avg: 55.3 | Grade: C
