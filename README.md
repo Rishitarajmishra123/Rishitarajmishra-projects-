@@ -34,7 +34,7 @@ system** in C
 ---
 
 ## 💬 Let's Connect!
-- 📫 Email: `your-email@example.com`
+- 📫 Email: 'rishitarajmishra8.com`
 - 🌐 Portfolio (coming soon)
 - 🌟 Fun Fact: I believe learning never stops—and coding makes it even more fun!
 
